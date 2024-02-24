@@ -1,7 +1,31 @@
 header {
-    margin: 20px ;
+    margin: 5px ;
+    padding: 2px;
+}
+nav{
+    border: 2px blue solid;
+    
 }
 .logo{
     border: 2px solid black;
-    margin: 14px;
+    display: flex;
+   
+}
+header{
+    display: flex;
+}
+.nav_section {
+    list-style: none;
+    background-color: #0693e3;
+    margin-left: auto;
+
+}
+.Navigation{
+    border: 2px solid red;
+    display: inline;
+}
+article{
+    background-image:url(Bg.jpg);
+    max-width:100% ;
+    height: 1000px;
 }
