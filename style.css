@@ -33,10 +33,11 @@ a{
     list-style: none;
     color: rgb(227, 227, 227);
     text-decoration: none;
+    font-size: 22px;
 }
 a:hover{
     cursor:pointer;
-    font-size: larger;
+    /* font-size: large; */
     color: rgb(3, 20, 63);
     font-weight: bold;
 }
@@ -58,4 +59,12 @@ article{
     color: rgb(12, 21, 159);
     font-weight: bold;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#Appointment{
+    border: 4px whitesmoke solid;
+}
+.adress{
+    color: rgb(239, 238, 238);
+    font-size: 12px;
+
 }
